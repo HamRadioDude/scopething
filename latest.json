@@ -1,0 +1,11 @@
+{
+  "meta_version": "0.11.8",
+  "meta_type": "multi",
+  "repository": "https://github.com/HamRadioDude/HamThing",
+  "fileIds": [
+    "scopething"
+  ],
+  "repositories": [
+    "https://github.com/HamRadioDude/HamThing"
+  ]
+}

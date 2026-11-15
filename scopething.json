@@ -1,0 +1,42 @@
+{
+  "meta_version": "0.11.8",
+  "meta_type": "app",
+  "repository": "https://github.com/HamRadioDude/HamThing",
+  "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0Ij4KICA8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzlEMEZGIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1kYXNoYXJyYXk9IjUgNSIvPgogIDxwYXRoIGQ9Ik0xNCA0NCBMMzAgMjIgTDUwIDM2IiBmaWxsPSJub25lIiBzdHJva2U9IiMzOUQwRkYiIHN0cm9rZS13aWR0aD0iMy41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8Y2lyY2xlIGN4PSIxNCIgY3k9IjQ0IiByPSI0LjUiIGZpbGw9IiMzOUQwRkYiLz4KICA8cmVjdCB4PSIyNiIgeT0iMTgiIHdpZHRoPSI4IiBoZWlnaHQ9IjgiIHRyYW5zZm9ybT0icm90YXRlKDQ1IDMwIDIyKSIgZmlsbD0iI0ZGQjU0NyIvPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iMzYiIHI9IjQuNSIgZmlsbD0iI0ZGRkZGRiIvPgo8L3N2Zz4K",
+  "size": 179650,
+  "appManifest": {
+    "id": "scopething",
+    "label": "ScopeThing",
+    "version": "1.3.0",
+    "description": "Live MeshCore traffic map from a CoreScope server: packet streaks, channels, My Nodes alerts and an ambient desk mode. Support: buymeacoffee.com/hamradiodude",
+    "author": "DudeTested",
+    "requiredVersions": {
+      "server": ">=0.11.0",
+      "client": ">=0.11.2"
+    },
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ],
+    "template": "full",
+    "tags": [
+      "meshcore",
+      "mesh",
+      "lora",
+      "corescope",
+      "ham-radio",
+      "map"
+    ],
+    "requires": [],
+    "repository": "https://github.com/HamRadioDude/HamThing",
+    "homepage": "",
+    "updateUrl": "https://github.com/HamRadioDude/HamThing"
+  },
+  "updateUrl": "https://github.com/HamRadioDude/HamThing/releases/download/scopething-v1.3.0/scopething-v1.3.0.zip",
+  "hash": "7ef99d2886f19a3069d400e62181a44442329fbff054e529acbf479431c18df1b0dc29e8bbe39cdd1464e4b69933c2495afc54745cd61e34767e88f860b786b6",
+  "hashAlgorithm": "sha512",
+  "updatedAt": 1794770467211,
+  "createdAt": 1794770467211,
+  "downloads": 0
+}
